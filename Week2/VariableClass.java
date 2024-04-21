@@ -3,14 +3,14 @@ package Week2;
 public class VariableClass {
     /* Instance Variable
      * access with object
-     * is not shaed with other object
+     * is not shared with other object
      */
     int instanceVariable = 120;
     /* Static variable
      * Access Class
      * Is shared with other object
      */
-    static int staticvariable = 2000;
+    static int staticVariable = 2000;
 
     public static void main(String[] args) {
         /*Non primitive data type
