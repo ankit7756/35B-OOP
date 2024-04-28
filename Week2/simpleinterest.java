@@ -14,7 +14,7 @@ public class simpleinterest {
         System.out.println("Principal: Rs. " + amount);
         System.out.println("Rate of Interest: " + rate + "%");
         System.out.println("Time Period: " + time + " years");
-        System.out.println("Simple Interest: Rs. " + simpleInterest);
+        System.out.println("Simple Interest: Rs. " + simpleInterest);       
     }
 }
 
