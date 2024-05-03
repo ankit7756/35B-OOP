@@ -16,9 +16,9 @@ public class OperatorClass {
     asNum1+=1; // same asNum1 = asNum1 + 1;
     System.out.println("+= value is " + asNum1);
     System.out.println("-= value is " + (asNum1-=10));
-    System.out.println("+= value is " + (asNum1*=10));
-    System.out.println("+= value is " + (asNum1/=2));
-    System.out.println("+= value is " + (asNum1%=3));
+    System.out.println("*= value is " + (asNum1*=10));
+    System.out.println("/= value is " + (asNum1/=2));
+    System.out.println("%= value is " + (asNum1%=3));
 
     /* Relational Operator */
     int rNum1 = 20, rNum2 = 21;
@@ -47,7 +47,6 @@ public class OperatorClass {
 
     /* Ternary Operator */
     int tNum1 = 20, tNum2 = 10;
-    String output;
     /* take following if else as example
      * if (tNum1 > tNum2){
      * output = "True Statement";
@@ -55,7 +54,7 @@ public class OperatorClass {
      * output = "False Statement"
      * }
      */
-    output = tNum1 > tNum2 ? "True Statement": "False Satement";
+    String output = tNum1 > tNum2 ? "True Statement": "False Satement";
     /* Here tenary operator contains expression
      * if expression is true it returns the "?"
      * if the expression is false it returns after the ":"

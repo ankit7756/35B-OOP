@@ -42,6 +42,7 @@ public class InputOutput {
     System.out.println("The input is" + booleanInput);
     scan.close(); // close after taking all the input
 
+
     }
     
 }

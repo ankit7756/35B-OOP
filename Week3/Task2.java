@@ -10,7 +10,7 @@
  * rest - Invalid day
  */
 
- package Week3;
+package Week3;
 
 import java.util.Scanner;
 
