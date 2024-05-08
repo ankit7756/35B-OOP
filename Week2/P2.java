@@ -1,6 +1,9 @@
+// 2. Write a program to calculate SI. 
+// Formula Simple Interest = (PrincipleAmount*Time*Rate/100);
+
 package Week2;
 
-public class simpleinterest {
+public class P2 {
     public static void main(String[] args) {
         // Declare variables
         double amount = 1000; // Principal amount

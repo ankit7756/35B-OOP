@@ -56,7 +56,8 @@ public class VariableClass {
         double intValueConvertedToDouble = intValueConvert;
         /* Explicit type casting (manual)
          * From larger type to smaller type*/
-        
+        double doubleValueConvert = 19.23d;
+        int doubleValueConvertedToInt = (int) doubleValueConvert;
+        System.out.println(doubleValueConvertedToInt);            
     }
-    
 }

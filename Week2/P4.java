@@ -1,6 +1,6 @@
 package Week2;
 
-public class ternaryoperators {
+public class P4 {
     public static void main(String[] args) {
         // Variable representing age
         int age = 0;
