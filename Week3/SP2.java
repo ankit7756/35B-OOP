@@ -43,9 +43,7 @@ public class SP2 {
             default:
                 System.out.println("Error: Invalid operator.");
                 return;
-        }
-
+        }       
         System.out.println("Result: " + result);
-
     }
 }

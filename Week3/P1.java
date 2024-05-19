@@ -15,8 +15,7 @@ public class P1 {
         }
         System.out.println("Maximum number among " + a + ", " + b + ", and " + c + " is: " + maximum);
   
-    }
-    
+    }   
 }
 
 // If you want to take numbers from the user

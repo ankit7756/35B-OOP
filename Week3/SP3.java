@@ -39,7 +39,6 @@ public class SP3 {
                 season = "Invalid month";
                 break;
         }
-
         System.out.println("The season for month " + month + " is: " + season);
 
         scanner.close();

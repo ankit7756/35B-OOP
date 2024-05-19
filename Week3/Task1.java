@@ -1,7 +1,7 @@
 /* Task 1
  * Consider the following marking
  * calculate the total and average in a variable
- * if any if the marking is less than 35, print fail
+ * if any of the marking is less than 35, print fail
  * if avg is less than 60, print third division
  * if avg is less than 70, print second division
  * if avg is less than 80, print first division
@@ -15,7 +15,7 @@
      public static void main(String[] args) {
          int science = 35, english = 55, math = 89;
          int total = science + english + math;
-         double average = total / 3.0; // Using 3.0 to force double division
+         double average = (double) total / 3; 
          
          System.out.println("Total marks: " + total);
          System.out.println("Average marks: " + average);

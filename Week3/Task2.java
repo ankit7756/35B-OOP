@@ -62,8 +62,7 @@ public class Task2 {
 
 // public class Task2 {
 //     public static void main(String[] args) {
-//         int day = 3; // Change this value to test different days
-
+//         int day = 3;
 //         String dayOfWeek;
 
 //         switch (day) {

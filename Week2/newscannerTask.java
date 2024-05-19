@@ -2,7 +2,7 @@
  * Make a new scanner object/ variable scan1
  * Prompt the following
  * What is your name? -> save as string, name
- * Are you ever 18? -> save as int, sibling
+ * Are you over 18? -> save as int, sibling
  * Print the following
  * Hello, name
  * Over 18? status

@@ -11,10 +11,6 @@ public class Javargument {
         int parseInt = Integer.parseInt(args[1]);
         /* Note that the second argument must be number */
         int sum = normalValue + parseInt;
-        System.out.println(sum);
-
-
-        
-    }
-    
+        System.out.println(sum);       
+    }   
 }

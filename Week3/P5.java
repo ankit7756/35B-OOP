@@ -16,6 +16,5 @@ public class P5 {
             System.out.println(year + " is not a leap year");
         }
         scanner.close();
-    }
-    
+    }  
 }
