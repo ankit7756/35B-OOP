@@ -11,7 +11,7 @@ public class ArrayLoop {
         /* We need length of array first, use .length */
         int arrayLength = arr.length;
         /* Loop from 0 - (arrayLength - 1), 0 -3 */
-        for(int index = 0; index< arrayLength ; index++){
+        for(int index = 0; index< arrayLength; index++){
             System.out.println(arr[index]);       
         }
         // or, use condition, index <= arrayLength - 1

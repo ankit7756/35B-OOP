@@ -1,4 +1,4 @@
-// Write a Java program to find the maximum and minimum value in an array.
+//3. Write a Java program to find the maximum and minimum value in an array.
 
 package Week6;
 

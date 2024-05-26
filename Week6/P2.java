@@ -23,9 +23,9 @@ public class P2 {
 
         // Print the result
         if (found) {
-            System.out.println("The array contains the value " + valueToFind);
+            System.out.println("The array contains the value " + valueToFind + ".");
         } else {
-            System.out.println("The array does not contain the value " + valueToFind);
+            System.out.println("The array does not contain the value " + valueToFind + ".");
         }
     }
 }
