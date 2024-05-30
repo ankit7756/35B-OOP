@@ -1,5 +1,5 @@
 // 5. Write a JAVA program to check whether a year is a leap year or not. 
-// Hint: if year%4==0; if year%100!==0 ; year%400==0; 
+// Hint: if year%4==0; if year%100!=0 ; year%400==0; 
 
 package Week3;
 

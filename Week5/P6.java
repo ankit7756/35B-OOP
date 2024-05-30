@@ -18,6 +18,5 @@ public class P6 {
         double result = Area(length,width);
         System.out.println("The area of rectangle is: " + result);
         scanner.close();
-    }
-    
+    }   
 }

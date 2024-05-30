@@ -16,7 +16,7 @@ public class P7 {
         
         // Prompt the user to enter their roll number
         System.out.print("Enter your roll number: ");
-        String rollNumber = scanner.nextLine();
+        int rollNumber = scanner.nextInt();
         
         // Prompt the user to enter their field of interest
         System.out.print("Enter your field of interest: ");

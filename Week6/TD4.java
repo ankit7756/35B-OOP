@@ -13,9 +13,9 @@ public class TD4 {
             {9, 10},
             {11, 12}
         };
-    
+
         int[][] resultMatrix = multiplyMatrices(matrix1, matrix2);
-    
+     
         System.out.println("Resultant Matrix:");
         for (int i = 0; i < resultMatrix.length; i++) {
             for (int j = 0; j < resultMatrix[0].length; j++) {

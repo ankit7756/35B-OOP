@@ -5,7 +5,7 @@
  * if avg is less than 60, print third division
  * if avg is less than 70, print second division
  * if avg is less than 80, print first division
- * if avg is equal or grater than 80, print distinction
+ * if avg is equal or greater than 80, print distinction
  * if avg is less than 0 or more than 100, print invalid 
  */
 
