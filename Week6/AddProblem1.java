@@ -1,5 +1,5 @@
 // Develop a simple menu-driven application in Java that operates on an array of elements.
-//  The program will display a Menu with those options and prompt the user to choose his/her option.
+// The program will display a Menu with those options and prompt the user to choose his/her option.
 
 // The program should provide the functionalities:
 
