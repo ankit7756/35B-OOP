@@ -25,7 +25,7 @@ public class Polymorphism {
     }   
 }
 // Method overloading - Compiletime polymorphism
-// Making same function multiple times with diff in parameter
+// Making same function multiple times with different in parameter
 
 class MathOperation{
     int add(int num1, int num2){
@@ -50,7 +50,7 @@ class MathOperation{
 }
 
 // Method Overriding - Runtime polymorphism
-// Making the ame function of ParentClass in ChildClass
+// Making the same function of ParentClass in ChildClass
 class Document{
     public void print(String paper){
         System.out.println("Document Printing.");
