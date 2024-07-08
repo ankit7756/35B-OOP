@@ -19,7 +19,7 @@ public class InputOutput {
     System.out.println("This will continue");
     /* System.out.printf
      * String formatter
-     * %s String, %d Integra, %f floating Point, %b boolean
+     * %s String, %d Integer, %f floating Point, %b boolean
      */
     System.out.printf("Hello %s, Nice", "World");
     System.out.printf("This is num %d",10);
@@ -28,7 +28,7 @@ public class InputOutput {
 
     /* User Input*/
     Scanner scan = new Scanner(System.in);
-    System.out.println("The following takes whole senetnce");
+    System.out.println("The following takes whole sentence");
     String wholeWString = scan.nextLine();
     System.out.println("The input is" + wholeWString);
     System.out.println("The following takes integer");
